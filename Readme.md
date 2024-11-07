@@ -14,9 +14,9 @@ graph TD;
     A[Início] --> B[Criar template .docx ];
     B --> C[Inserir placeholders];
     C --> D[Carregar template];
-    D --> E[Inse dados nos placeholders];
+    D --> E[Insir dados nos placeholders];
     E --> F[Gerar documento .docx];
-    F --> G[Salva arquivo];
+    F --> G[Salvar arquivo];
     G --> H[Fim];
 
 ```
